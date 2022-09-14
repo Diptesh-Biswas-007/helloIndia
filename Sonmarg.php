@@ -18,10 +18,10 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Sonmarg.helloIndia.com</title>
+    <title>Sonmarg.helloIndia</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Free HTML Templates" name="keywords">
-    <meta content="Free HTML Templates" name="description">
+    <meta content="helloIndia" name="keywords">
+    <meta content="By Quintet Coders" name="description">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
